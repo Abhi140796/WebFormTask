@@ -1,0 +1,57 @@
+﻿body {
+    background-color: wheat; 
+    background-repeat:no-repeat;
+}
+form{
+    margin:auto;
+}
+#ListBox1{
+    border:1px solid black;
+}
+
+#Image1 {
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 300px;
+    width: 300px;
+    border:1px solid black;
+
+}
+
+.auto-style1 {
+    width: 320px;
+}
+
+.auto-style2 {
+    width: 321px;
+}
+
+.auto-style3 {
+    width: 100%;
+}
+
+.auto-style4 {
+    width: 194px;
+}
+table {
+    background-color: wheat;
+}
+h1{
+    font-size:40px;
+    font-weight:bold;
+    text-align:center
+}
+nav{
+    text-decoration:none;
+    background-color:darkgoldenrod;
+    height:40px;
+    border-radius:10px;
+}
+nav,a {
+    text-decoration: none;
+}
+
+.container_lable, #lbltxt1 {
+    margin: auto 130px;
+    padding:100px;
+}
